@@ -3,8 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-
+.logo{
+    vertical-align: middle;
+    padding-left: 20px;
+}
 #titolo-principale{
     display: inline;
+    width: 100px;
+    height: 100px;
+}
+.tabella{
+    padding-left: 500px;
+    margin-top: 200px;
 }
