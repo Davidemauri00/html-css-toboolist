@@ -3,19 +3,20 @@
     padding: 0;
     box-sizing: border-box;
     background-color: rgb(240,240,240);
+    font-family: Arial, Helvetica, sans-serif;
 }
 .titolo{
     background-color: white;
+    padding: 10px 20px;
 }
 .logo{
     vertical-align: middle;
-    padding-left: 20px;
 }
 #titolo-principale{
     background-color: white;
     display: inline;
-    width: 100px;
-    height: 100px;
+    vertical-align: middle;
+    font-size: 40px;
 }
 .tabella{
     padding-left: 300px;
